@@ -18,7 +18,7 @@ An AI agent sweeps a dozen job boards twice a week, scores every role against a 
 
 ### 🗂 Production CRM for a nonprofit
 
-Next.js 14, PostgreSQL, and Prisma. Multi-pipeline contact management, donation and financials tracking with QuickBooks duplicate detection, and an approval queue that keeps a human between AI agents and the database. Running in production for a real organization; the code is private to the client, and a case study with seeded demo data is on the way.
+Next.js, PostgreSQL, and Prisma. Multi-pipeline contact management, donation and financials tracking with QuickBooks duplicate detection, and an approval queue that keeps a human between AI agents and the database. Running in production for a real organization; the code is private to the client, and a case study with seeded demo data is on the way.
 
 ---
 
