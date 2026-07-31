@@ -8,6 +8,21 @@ I build agentic AI systems that do real work: pipelines that sweep and score dat
 
 ---
 
+## ▶ Three demos you can click through right now
+
+No signup, no install. Each one opens straight into the product, runs on invented data, and
+carries a banner saying exactly what is real and what is stubbed.
+
+**[colinolivier.vercel.app](https://colinolivier.vercel.app)** — all three in one place.
+
+| | | |
+|---|---|---|
+| **[Restaurant ordering & delivery](https://demo-restaurant-ordering.vercel.app)** | Bilingual EN/HE menu with RTL, cart, zone-priced delivery checkout, live order tracking, kitchen board. Shabbat and yom-tov closures computed from the Hebrew calendar. | [source](https://github.com/Neuralowkey/demo-restaurant-ordering) |
+| **[LeadGraph](https://demo-leadgraph.vercel.app)** | Turns research publishing activity into ranked, explainable biotech sales leads. 3D co-authorship graph, deck.gl globe, and a weight tuner that re-ranks the run live. | [source](https://github.com/Neuralowkey/demo-leadgraph) |
+| **[Yeshiva Operating System](https://demo-yeshiva-os.vercel.app)** | A school back office built around an approval queue: agents propose, people decide, every decision is audited. Nothing an agent suggests executes on its own. | [source](https://github.com/Neuralowkey/demo-yeshiva-os) |
+
+---
+
 ### 🎛 Mission Control — an agentic pipeline that runs my job search
 
 [![Mission Control Daily tab](img/daily-hero.png)](https://github.com/Neuralowkey/mission-control)
@@ -18,7 +33,9 @@ An AI agent sweeps a dozen job boards twice a week, scores every role against a 
 
 ### 🗂 Production CRM for a nonprofit
 
-Next.js, PostgreSQL, and Prisma. Multi-pipeline contact management, donation and financials tracking with QuickBooks duplicate detection, and an approval queue that keeps a human between AI agents and the database. Running in production for a real organization; the code is private to the client, and a case study with seeded demo data is on the way.
+Next.js, PostgreSQL, and Prisma. Multi-pipeline contact management, donation and financials tracking with QuickBooks duplicate detection, and an approval queue that keeps a human between AI agents and the database. Running in production for a real organization; the code is private to the client.
+
+**[Try the demo version →](https://demo-yeshiva-os.vercel.app)** — six of its screens rebuilt on invented data, with the approval queue front and centre.
 
 ---
 
