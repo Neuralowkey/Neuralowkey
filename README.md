@@ -19,7 +19,7 @@ carries a banner saying exactly what is real and what is stubbed.
 |---|---|---|
 | **[Restaurant ordering & delivery](https://demo-restaurant-ordering.vercel.app)** | Bilingual EN/HE menu with RTL, cart, zone-priced delivery checkout, live order tracking, kitchen board. Shabbat and yom-tov closures computed from the Hebrew calendar. | [source](https://github.com/Neuralowkey/demo-restaurant-ordering) |
 | **[LeadGraph](https://demo-leadgraph.vercel.app)** | Turns research publishing activity into ranked, explainable biotech sales leads. 3D co-authorship graph, deck.gl globe, and a weight tuner that re-ranks the run live. | [source](https://github.com/Neuralowkey/demo-leadgraph) |
-| **[Yeshiva Operating System](https://demo-yeshiva-os.vercel.app)** | A school back office built around an approval queue: agents propose, people decide, every decision is audited. Nothing an agent suggests executes on its own. | [source](https://github.com/Neuralowkey/demo-yeshiva-os) |
+| **[Yeshiva Operating System](https://demo-yeshiva-os.vercel.app)** | A school back office built around an approval queue: agents propose, people decide, every decision is audited. Plus seder attendance and a QuickBooks reconciliation surface where the matcher says why it is unsure instead of guessing. | [source](https://github.com/Neuralowkey/demo-yeshiva-os) |
 
 ---
 
