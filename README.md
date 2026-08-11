@@ -1,3 +1,5 @@
+<div align="right" lang="he">ב״ה</div>
+
 # Colin Olivier
 
 I build agentic AI systems that do real work: pipelines that sweep and score data on a schedule, dashboards with a human in the loop, and materials that generate themselves. I got here from a customer-facing career in life science instrumentation, running product demos, field application support, and technical sales for research tools.
