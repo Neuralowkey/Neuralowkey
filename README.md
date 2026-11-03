@@ -4,7 +4,7 @@
 
 I help technical teams adopt new tools, and I build with AI coding agents every day. For more than a decade I worked with technical customers in life-science R&D: discovery, demos, capital equipment closes, customer training and support. From 2024 to 2026, as AI Operations Lead for a nonprofit, I was on the other side of the table. I led the organization's move to a production CRM and digital intake system that I built hands-on with agentic coding tools, with a human approving what the agents propose.
 
-**How I work:** I design the system, write the specs, guardrails and runbooks, then direct AI coding agents to build it. I review, test, and run the result in production. The flagship project below runs unattended twice a week.
+**How I work:** I design the system, write the specs, guardrails and runbooks, then direct AI coding agents to build it. I review, test, and run the result in production. Mission Control, below, runs unattended twice a week.
 
 **Looking for:** AI Deployment, Field Engineering and Solutions Architecture roles: owning rollout and enablement after the sale, and translating between technical customers and the product team. Based in Ramat Yishai, Israel (aliyah April 2025); open across Israel and remote. US & Israeli citizen · native English, conversational Hebrew.
 
